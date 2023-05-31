@@ -7,11 +7,12 @@ c=input("Enter S/s for Senior citizen or N/n for Non senior citizen: \n")
 a=int(input("Enter your principle amount \n"))
 
 t=int(input("Enter your time of Fixed Deposit"))
+i=0
 
 if g=="f" or g=="F":
 	if c=="S"or c="s":
 		i= (a*t*8)/100
-	elif
+	elif:
 		c=="N"or c="n":
 		i=(a*t*6)/100
 	else:
